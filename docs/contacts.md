@@ -1,4 +1,4 @@
 ﻿# Contacts
 
 - Platform team: platform@example.com
-- Support: TBD
+- Support: support@example.com
